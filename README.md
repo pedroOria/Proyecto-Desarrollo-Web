@@ -54,7 +54,10 @@ Sabores_Nortenos/
 6. Evaluar accesibilidad, privacidad y seguridad.
 
 ## Equipo
-Agregar aquí nombres y roles del equipo.
+- Pedro Oria  | Product Owner
+- Walter Vega | Desarrollador Front-en
+- Max Lazaro  | Desarrollador back-end
+- Diogo Jara  | QA y Documentación
 
 ## Uso de IA
 Documentar las herramientas utilizadas, sus usos y cómo se verificaron las sugerencias, según las indicaciones del curso.
