@@ -12,6 +12,7 @@ app.use(express.json({ limit: '10kb' }));
 // Rutas de la API
 app.use('/api/productos', require('./routes/productos'));
 app.use('/api/pedidos', require('./routes/pedidos'));
+app.use('/api/contacto', require('./routes/contactos'));
 
 // Cualquier otra ruta /api responde 404 en formato JSON
 app.use('/api', (req, res) => {
